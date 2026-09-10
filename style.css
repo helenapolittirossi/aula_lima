@@ -11,27 +11,27 @@ body{
 }
 
 header{
-    background:#3c6bb1;
-    color:rgb(195, 195, 195);
+    background:#5d80b4;
+    color: white;
     text-align:center;
     padding:30px;
 }
 
 nav{
-    background:#222;
+    background:#b8d0f5;
     text-align:center;
     padding:15px;
 }
 
 nav a{
-    color:white;
+    color: #5d80b4;
     text-decoration:none;
     margin:20px;
     font-weight:bold;
 }
 
 nav a:hover{
-    color:gold;
+    color:#eeeeee;
 }
 
 section{
@@ -41,7 +41,7 @@ section{
 
 h2{
     margin-bottom:20px;
-    color:#0d6efd;
+    color:#5d80b4;
 }
 
 .card{
